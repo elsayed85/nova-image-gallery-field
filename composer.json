@@ -12,7 +12,6 @@
     "require": {
         "php": "^8.0",
         "laravel/framework": "^9.33",
-        "laravel/nova": "^4.0",
         "spatie/laravel-medialibrary": "^10.5"
     },
     "require-dev": {
