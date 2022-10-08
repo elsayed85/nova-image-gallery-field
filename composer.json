@@ -1,5 +1,5 @@
 {
-    "name": "ardenthq/nova-image-gallery-field",
+    "name": "elsayed85/nova-image-gallery-field",
     "description": "Field for Nova that allows you to upload multiple images and sort them",
     "type": "library",
     "license": "MIT",
